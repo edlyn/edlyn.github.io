@@ -4,7 +4,8 @@ author: "Edlyn Yuen"
 date: "December 15, 2016"
 ---
 
-## Hi! I'm Edlyn. ##
+# Hi! I'm Edlyn. #
+
 
 ### Currently, I'm: ###
 - working on an online store to sell copies of my new book, *Prompt IRL*. 
