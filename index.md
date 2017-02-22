@@ -4,7 +4,13 @@ author: "Edlyn Yuen"
 date: "December 15, 2016"
 ---
 
+<<<<<<< HEAD
 ## Hi! I'm Edlyn. ##
+=======
+Hi! I'm Edlyn.
+====================
+
+>>>>>>> 3e01cccb24442e56ef763fda6ca62a7c77e0c285
 
 ### Currently, I'm: ###
 - working on an online store to sell copies of my new book, *Prompt IRL*. 
